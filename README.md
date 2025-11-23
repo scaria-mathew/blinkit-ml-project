@@ -1,5 +1,7 @@
 # Blinkit Data Analysis & Prediction App
 
+**Website:** https://blinkit-analysis.streamlit.app/
+
 ## About The Project
 
 This application is a Data Analysis and Sales Prediction tool built for the Grocery/Blinkit domain. It is developed as a Capstone Project under the mentorship of the Learningt / GT Program at Rajagiri College of Social Sciences (RCSS).
